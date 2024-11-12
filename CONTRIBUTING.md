@@ -4,7 +4,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 You can contribute in different ways:
 
-Writing tutorials and blog posts
-Improving the documentation
-Submitting bug reports and feature requests
-Forking this repository and submitting a pull request
+- Writing tutorials and blog posts
+- Improving the documentation
+- Submitting bug reports and feature requests
+- Forking this repository and submitting a pull request
